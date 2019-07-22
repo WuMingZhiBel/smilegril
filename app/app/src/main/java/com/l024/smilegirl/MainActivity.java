@@ -25,8 +25,8 @@ import pub.devrel.easypermissions.AfterPermissionGranted;
 import pub.devrel.easypermissions.EasyPermissions;
 
 public class MainActivity extends AppCompatActivity implements EasyPermissions.PermissionCallbacks {
-    //摄像机类
-    private Camera camera;
+    //摄像机类0002
+  private Camera camera;
     //自定义
     private MySurfaceView2 surfaceView;
     private SurfaceHolder cameraSurfaceHolder;
