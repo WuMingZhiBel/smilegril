@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Smilegirl</string>
+    <string name="perminssions_content">因您已设置不再提示，请手动开启权限</string>
+    <string name="permissonTxt">没有权限将无法继续执行,请为应用授权！</string>
+
+</resources>
